@@ -209,6 +209,6 @@
 設計書がない状態からの開発となり、Adobe AIR 版のソースコードも読む必要があったため大変でした。Angular も初めて触れましたがフロントの知見がより深まりました。
 
 詳細は、こちらの
-<a href="https://docs.google.com/spreadsheets/d/1ZClxL4VZb6J-iopfPmut6eqnGTaOj-us5OsY1EvhUyY/edit?usp=sharing" target="_blank" rel="noopener noreferrer">スキルシート</a>
+<a href="https://docs.google.com/spreadsheets/d/1eyMq-YeVbcEdQHlb1gqn7B3UlDwUcIDaqBIHVRERdR8/edit?usp=sharing" target="_blank" rel="noopener noreferrer">スキルシート</a>
 に記載しています。<br>
 閲覧いただけましたら幸いです。
