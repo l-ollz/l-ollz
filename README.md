@@ -33,7 +33,7 @@
 | 　その他サービス　　 | Eclipse, Rlogin, Postman, Swagger, GCP, Docker, SQL Server Management Studio, pgAdmin4, Chrome DevTools |
 | 　業務ツール　　     | Visual Studio Code, Backlog, redmine, Slack, ChatWork, Visual Studio, Figma, teams, notion |
 
-## 各プログラミング言語
+## 各プログラミング/フレームワーク言語
 
 | 技術       | 歴     |
 | ---------- | ------ |
