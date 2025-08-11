@@ -1,41 +1,43 @@
-更新日：2024/12
+更新日：2025/08
 
 # 🫘 自己紹介 🫘
 
 | 項目 | 内容                                   |
 | ---- | -------------------------------------- |
 | 氏名 | 蓮本 玲吾                              |
-| 住所 | 埼玉県                                 |
 | 性別 | 男性                                   |
-| 年齢 | 26 歳(1998 年生まれ)                   |
+| 年齢 | 27 歳(1998 年生まれ)                   |
 | 学歴 | 弘前大学 人文社会科学部 地域行動コース |
 
 # 技術
 
 現在は、フロントエンド開発をしています。
-エンジニア歴：5 年
+エンジニア歴：6 年
 
 | 項目                 | 内容                                                                                                            |
 | -------------------- | --------------------------------------------------------------------------------------------------------------- |
-| プログラミング言語   | HTML, CSS(SCSS), Javascript, Typescript, Python, C#, Java                                                       |
-| フレームワーク       | Angular(Typescript), React(Typescript),React Redux, Spring Boot(Java), ASP.NET MVC(C#), Next.js, Vue.js,        |
-| DB 　                | MS SQL Server, PostgreSQL                                                                                       |
+| プログラミング言語   | HTML, CSS(SCSS), Typescript, Javascript, , Python, C#, Java                                                       |
+| フレームワーク       | React(Typescript), Next.js(Typescript),React Redux, Angular(Typescript), Spring Boot(Java), ASP.NET MVC(C#), Vue.js |
+| DB 　                | MS SQL Server, PostgreSQL, MongoDB                                                                                       |
 | ソースコード管理     | Git, Github, Bitbucket                                                                                          |
-| 　業務ツール　　     | Visual Studio Code, Eclipse, Rlogin, Slack, ChatWork, Visual Studio, Teams,PgAdmin4, FileZilla, Chrome DevTools |
-| 　その他サービス　　 | Backlog, Postman, Swagger, GCP, Docker, Notion, SQL Server Management Studio, Redmine, Figma                    |
+| 　業務ツール　　     | Visual Studio Code, Eclipse, Rlogin, Slack, ChatWork, Visual Studio, Teams, PgAdmin4, FileZilla, Chrome DevTools |
+| 　その他サービス　　 | Backlog, Postman, Swagger, GCP, Docker, Notion, SQL Server Management Studio, Redmine, Figma, KARTE             |
+| 　OS／環境　　　     | macOS, windows10                                                                                                           |
 
 ## 各プログラミング/フレームワーク言語
 
-| 技術       | 歴     |
-| ---------- | ------ |
-| Typescript | 2 年半 |
-| javascript | 1 年半 |
-| React      | 2 年   |
-| Angular    | 2 ヶ月 |
-| Python     | 6 ヶ月 |
-| C#         | 6 ヶ月 |
-| Java       | 1 ヶ月 |
-| HTML/CSS   | 5 年   |
+| 技術             | 歴     |
+| ---------------- | ------ |
+| Typescript       | 4 年 |
+| javascript       | 2年 |
+| React            | 3 年   |
+| Next.js            | 1年  |
+| Vue.js           | 数ヶ月 |
+| Angular          | 2 ヶ月 |
+| Python           | 6 ヶ月 |
+| C#               | 6 ヶ月 |
+| Java             | 1 ヶ月 |
+| HTML/CSS         | 6 年  |
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-ollz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -71,6 +73,7 @@
 ## フリーランスのフロントエンドエンジニアとして活動(現在)
 
 大手キャリアでフロントエンドの開発を担当
+期間：2024-06 ～ 現在
 
 - [大手キャリアのWebサイト運用更新案件](#大手キャリアのwebサイト運用更新案件)
 
@@ -213,7 +216,20 @@
 - モバイル端末やタブレットなど、様々なデバイスに対応するレスポンシブデザインを実装
 - CSS メディアクエリや React のコンポーネントを用いたレイアウト調整を実施
 - 既存の Web サイトの UI/UX を改善するため、新しいデザインの実装および既存コンポーネントの改良
+- styled-components を使用したコンポーネント開発
+- Vue.js で構築された旧システムから React への移行プロジェクトを担当（共存環境の設計・実装）
 - 独自の CMS を使用した Web サイトのコンテンツ更新（商品情報、ニュース、キャンペーン情報など）
 - デザイナーやディレクターと連携し、プロジェクトの進行管理および課題解決をサポート
-- Web サイトのパフォーマンス向上のため、コードの最適化、画像の圧縮、React のレンダリングパフォーマンスの改善を担当
-- リリース計画と実施: リリース時期に合わせて関連チームと連携し、リリース内容の確認、リリースノートの作成、影響範囲などを確認しリリース作業を実施。土日祝日などのオフピーク時間での作業もあり。
+- Web サイトのパフォーマンス向上のため、Chrome Lighthouse を活用しDOM構造見直し等を実施
+- A/Bテスト環境の整備・実装（KARTE、社内ツールを使用）
+- Git・Bitbucket を用いたチーム開発（Mac環境）
+- リリース時期に合わせて関連チームと連携し、リリースノートの作成や影響範囲の確認、深夜休日のリリース作業も対応
+
+# プライベート開発・取り組み
+
+### ECサイト開発（bolt.new 使用）
+https://unique-cajeta-769ac7.netlify.app/
+
+- 小規模なオンライン書店を想定したECサイトを構築
+- Headless CMSを活用し、商品管理・コンテンツ配置・デザイン最適化を行う
+- bolt.newによる簡易バックエンド構築を試行
