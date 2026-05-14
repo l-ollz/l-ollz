@@ -13,7 +13,7 @@
 ### フリーランス（2024/06 - 現在）
 - 案件: 大手キャリアのWebサイト運用更新
 - 役割: フロントエンド
-- 主な技術: React, TypeScript, styled-components, KARTE
+- 主な技術: React, Next.js, TypeScript, styled-components, KARTE
 - 主な業務:
   - レスポンシブ対応、UI改修、既存コンポーネント改善
   - Vue.jsからReactへの段階移行（共存環境の設計/実装）
