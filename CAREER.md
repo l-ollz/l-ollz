@@ -38,7 +38,7 @@
   - Adobe AIR(ActionScript)からWebアプリへ移行
   - 既存機能の置き換え、画面開発
 
-### SaaS企業（常駐 / 2021/04 - 2021/11）
+### SaaS企業（2021/04 - 2021/11）
 - 案件: SaaS導入サポートおよび運用保守（約8ヶ月）
 - 役割: プログラミング、運用保守
 - 主な技術: JavaScript, Python, Jest, Google Sheets API
